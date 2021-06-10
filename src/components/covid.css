@@ -1,0 +1,55 @@
+ul{
+    list-style-type:none;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(0, 0, 0);
+}
+.card_main{
+    height: 150px;
+    width: 400px;
+    margin: 10px;
+    align-content: center;
+    align-items: center;
+    background-color: rgb(116, 116, 209);
+    border-radius: 5%;
+ 
+}
+.card{
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    text-align: center;
+    min-height: 10vh;
+    align-items: center;
+    border-radius: 7%;
+}
+.card_name{
+    font-size: 25px;
+    font-weight: bold;
+}
+.card_name span{
+    font-size: 15px;
+}
+.card_total{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1,h2{
+    color: white;
+    text-align: center;
+    font-size: 20x;
+    
+}
+
+p{
+    color:black;
+    text-align: center;
+}
+.total_small_card{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
